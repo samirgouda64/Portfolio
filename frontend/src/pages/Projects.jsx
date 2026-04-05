@@ -1,5 +1,6 @@
 import wanderlust from "../assets/wanderlust.png";
-// import videocall from "../assets/videocall.png";
+import Workzen from "../assets/workzen.png";
+import videocall from "../assets/apnavideocall.png";
 
 const projects = [
   {
@@ -7,16 +8,24 @@ const projects = [
     title: "Wanderlust – Hotel Booking",
     description: "MERN app with JWT & Cloudinary",
     image: wanderlust,
-    github: "https://github.com/yourusername/wanderlust",
+    github: "https://github.com/samirgouda64/Wanderlust",
     live: "https://wanderlust-frontend-4oz6.onrender.com"
   },
   {
     id: 2,
     title: "ApnaVideoCall",
     description: "WebRTC + WebSocket app",
-    image: wanderlust,
-    github: "https://github.com/yourusername/video-call",
-    live: "#"
+    image: videocall,
+    github: "https://github.com/samirgouda64/Apna_video_call",
+    live: ""
+  },
+  {
+    id: 3,
+    title: "Workzen Technology",
+    description: "Employee Management System with Laravel",
+    image: Workzen,
+    github: "https://github.com/samirgouda64/laravel_project",
+    live: ""
   }
 ];
 
