@@ -179,7 +179,7 @@ export default function Home() {
         <p className="mb-2">📧 samirgouda439@gmail.com</p>
 
         <a
-          href="https://www.linkedin.com/in/samira-gouda/"
+          href="https://www.linkedin.com/in/samira-gouda-416b28253/"
           target="_blank"
           className="text-blue-600 underline block"
         >
@@ -187,7 +187,7 @@ export default function Home() {
         </a>
 
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/samirgouda64?tab=repositories"
           target="_blank"
           className="text-gray-800 underline block mt-2"
         >
