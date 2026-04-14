@@ -1,6 +1,6 @@
 import wanderlust from "../assets/wanderlust.png";
 import Workzen from "../assets/workzen.png";
-import videocall from "../assets/apnavideocall.png";
+import videocall from "../assets/apnavideo.png";
 
 const projects = [
   {
@@ -17,7 +17,7 @@ const projects = [
     description: "WebRTC + WebSocket app",
     image: videocall,
     github: "https://github.com/samirgouda64/Apna_video_call",
-    live: ""
+    live: "https://apnavideocall-onkf.onrender.com/"
   },
   {
     id: 3,
